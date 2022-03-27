@@ -17,8 +17,14 @@ https://d1.awsstatic.com/reInvent/re21-pdp-tier1/sagemaker/seychelles/Product-Pa
 
 #### Clone repo
 
-
 ### AWS Sagemaker Studio
+
+* Recommended starting point is to launch a studio notebook
+
+### MLOps with SageMaker Projects
+
+* [Automate MLOps with SageMaker Projects](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html)
+* [What is a SageMaker Project](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-whatis.html)
 
 ### References
 
