@@ -13,4 +13,14 @@ https://d1.awsstatic.com/reInvent/re21-pdp-tier1/sagemaker/seychelles/Product-Pa
 
 #### Key Points
 
-CPU 12hr vs GPU 4hr
+* CPU 12hr vs GPU 4hr
+
+#### Clone repo
+
+
+### AWS Sagemaker Studio
+
+### References
+
+* [Sagemaker Studio lab create notebook](https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-create-open.html)
+* [Julien Simon XGBoost AutoML with Sagemaker](https://gitlab.com/juliensimon/aim307/-/blob/master/aim307.ipynb)
